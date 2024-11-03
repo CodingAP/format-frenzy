@@ -1,10 +1,14 @@
 # RazorHack CTF 2024 - Format Frenzy
-#### Created by Alex Prosser
+#### by Alex Prosser
 
 > Oh, thank goodness you are here. An intern downloaded a virus while trying to fix the breakroom computer (to think that "Totally Real Anti-Virus 2034" would not be what it seems). We managed to recover most of the data, but we have some files that got scrubbed of all the metadata! We will have some of our team members try to remember what the data is, but can you investigate the files to see WHAT you can find?
 ~ IT Team
 
 The flags will take the structure of `flag{FLAG_HERE_XXXXX}`.
+
+[Write-Up with Answers and Guide](https://codingap.github.io/blog/posts/razorhack-ctf-2024-format-frenzy/)
+
+## Challenges
 
 ### 1. Graphics mean *Everything*
 
